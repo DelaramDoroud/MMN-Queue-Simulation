@@ -1,6 +1,7 @@
 # MMN Queue Simulation
 
 This project is part of the **Distributed Computing** course and implements and analyzes different queueing models through **Discrete Event Simulation (DES)** with a focus on **M/M/N systems** and their extensions.
+
 ---
 
 ## 📌 Project Overview
